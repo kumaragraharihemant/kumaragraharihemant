@@ -5,16 +5,16 @@
 ### <div align="center">I'm a Software Engineer and Web Developer. 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on MERN STACK
+- 🔭 I’m currently working on React and Frontend
   
 
-- 🌱 I’m currently learning Web 3 and AI.
+- 🌱 I’m currently learning MERN.
   
 
-- ❓ Ask me about anything related to MERN stack and AWS Cloud   
+- ❓ Ask me about anything related to Frontend Development  
   
 
-- ⚡ Qualification: I am B.Tech Computer Science Graduate 2019  
+- ⚡ Qualification: I am MCA Computer Science Graduate 2020  
   
 ## [RESUME 🎯](https://drive.google.com/file/d/1IORZwcdCbmkA6QXC15lR23KVyV_kkIEz/view?usp=sharing)
  
@@ -32,7 +32,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+  
 </div>
 
 </td><td valign="top" width="33%">
@@ -52,13 +52,6 @@
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
 
 </td></tr></table>  
 
@@ -87,30 +80,4 @@
 <br/>  
 
 
-## Github Stats  
 
-
-  <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false' >
-  <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitagarwal&theme=radical&hide_border=false"  height="190px" />
-  </a>
-
-<br/>  
-
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rakshitagarwal&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
